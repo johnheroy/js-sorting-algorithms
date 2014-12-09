@@ -2,7 +2,7 @@
 
 > implementation of popular sorting algorithms in JavaScript
 
-* Quicksort
-* Mergesort
-* Bubble sort
-* Insertion sort
+- [x] Quicksort
+- [x] Mergesort
+- [ ] Bubble sort
+- [ ] Insertion sort
